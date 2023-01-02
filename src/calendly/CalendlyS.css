@@ -1,0 +1,79 @@
+.bg-light {
+    background-color: white !important;
+}
+
+.firstrow{
+	text-align: center;
+}
+
+.Standardize{
+	margin-top: 40px;
+}
+
+.button{
+	border-radius: 40px;
+	color: white;
+	background-color: black;
+	width: 200px;
+	height:80px;
+	margin-top: 20px;
+}
+
+.secondrow{
+	max-width: 100%;
+	margin-top: 30px;
+}
+
+.thirdrow{
+	margin-top: 30px;
+}
+
+.resize, .col-md-4{
+	height: 400px;
+}
+
+.card-title{
+	width: 150px;
+}
+
+.card-text{
+	text-align: center;
+	width: 150px;
+	border-radius: 5px;
+	margin-right: 5px;
+}
+
+.fifthrow{
+	position: relative;
+  
+}
+
+.buttonl{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 40px;
+	position: absolute;
+	top: 50%;
+	left:  50%;
+	color: white;
+	background-color: black;
+	width: 120px;
+	height:40px;
+	text-align: center;
+}
+
+
+.sixthrow{
+	margin-top: 100px;
+}
+
+.col-md-3{
+	width: 170px;
+	margin: 0px;
+}
+
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+}

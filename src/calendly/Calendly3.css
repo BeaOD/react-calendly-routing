@@ -1,0 +1,49 @@
+.bg-light {
+    background-color: white !important;
+}
+
+.firstrow{
+	text-align: center;
+}
+
+.row2{
+	padding-top:  35px;
+
+}
+
+.buttonl{
+	border-radius: 40px;
+	color: white;
+	background-color: black;
+	width: 200px;
+	height:80px;
+	margin-top: 20px;
+}
+
+.secondrow{
+	max-width: 100%;
+	margin-top: 30px;
+
+}
+
+.thirdrow{
+	margin-top: 30px;
+}
+
+.resize, .col-md-4{
+	height: 400px;
+}
+
+.sixthrow{
+	margin-top: 35px;
+}
+
+.final{
+	margin-top: 35px;
+	
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+}

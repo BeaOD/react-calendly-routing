@@ -1,0 +1,49 @@
+.bg-light {
+    background-color: white !important;
+}
+
+.firstrow{
+	text-align: center;
+}
+
+.Standardize{
+	margin-top: 40px;
+}
+
+.button{
+	border-radius: 40px;
+	color: white;
+	background-color: black;
+	width: 200px;
+	height:80px;
+	margin-top: 20px;
+}
+
+.secondrow{
+	max-width: 100%;
+	margin-top: 30px;
+	background-color:#E5E4E2;
+}
+
+.thirdrow{
+	margin-top: 30px;
+}
+
+.resize, .col-md-4{
+	height: 400px;
+}
+
+
+.col-md-3{
+	width: 120px;
+}
+
+.final{
+	margin-top: 15px;
+	padding-left: 150px;
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+}

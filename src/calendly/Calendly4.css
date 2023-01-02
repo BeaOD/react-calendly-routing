@@ -1,0 +1,66 @@
+.bg-light {
+    background-color: white !important;
+}
+
+.firstrow{
+	text-align: center;
+}
+
+.row2{
+	padding-top:  35px;
+
+}
+
+.buttonl{
+	border-radius: 40px;
+	color: white;
+	background-color: blue;
+	width: 200px;
+	height:80px;
+	margin-top: 20px;
+}
+
+.button2{
+	border-radius: 40px;
+	border-color: black;
+	color: black;
+	background-color: white;
+	width: 200px;
+	height:80px;
+	margin-top: 20px;
+}
+
+.secondrow{
+	max-width: 100%;
+	margin-top: 30px;
+
+}
+
+.thirdrow{
+	margin-top: 30px;
+	text-align: center;
+	width: 100%
+}
+.thirdrowA{
+	width: 100%;
+	text-align: center;
+}
+
+
+.resize, .col-md-4{
+	height: 400px;
+}
+
+.sixthrow{
+	margin-top: 35px;
+}
+
+.final{
+	margin-top: 35px;
+	
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+}
